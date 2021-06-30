@@ -17,11 +17,11 @@
  
 📱**Contact (연락처)**
   
-😍**Frequently used sites (자주 이용하는 사이트)**
+📄**Frequently used sites (자주 이용하는 사이트)**
  
- :school_satchel:**project (프로젝트)**
+👨‍👨‍👦‍👦**project (프로젝트)**
  
- :pencil2: **Stacks**
+ :school_satchel: **Stacks**
  
 👨🏻‍💻**Career (경력)**
 
@@ -62,7 +62,7 @@
 
 * * *
  
-😍**Frequently used sites**
+📄**Frequently used sites**
  
  - ```Facebook link```: [Facebook][googlelink]
  
@@ -76,7 +76,7 @@
 
  * * *
 
-:school_satchel:**project**
+👨‍👨‍👦‍👦**project**
 
 
  - ``` C Language 이용한 간단한 숫자 맞추기 프로젝트 ```
@@ -87,7 +87,7 @@
 
 * * *
  
-:pencil2: **Stacks**
+:school_satchel: **Stacks**
  
 - C Language
  
