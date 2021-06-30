@@ -69,17 +69,11 @@
  [Googlelink]: https://www.facebook.com/profile.php?id=100004531120609&ref=bookmarks "Go google"
  
  
-- ```github link``` :https://github.com/dkagh012/
+- ```github link``` :[github](https://github.com/dkagh012/)
  
  
-- ```Youtube link``` :[Youtube][googlelink]
+- ```Youtube link``` : [Youtube](https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg)
  
-  [Youtube link]: https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg "Go google"
-
- 
- [Youtube](https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg)
-
-[깃헙](https://github.com/)
 
  * * *
 
