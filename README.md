@@ -1,11 +1,10 @@
-**안녕하세요 ~~ 안동대학교 컴퓨터공학과 17학번 배정태의 포트폴리오 입니다.**
 
 
 <img src = "https://user-images.githubusercontent.com/61902400/123640326-05278900-d85c-11eb-928c-5564ce041d3a.PNG" width="25%" height="25%" align="right">
-<p align="center"><img src = "https://user-images.githubusercontent.com/61902400/123640326-05278900-d85c-11eb-928c-5564ce041d3a.PNG" width="34%" height="30%">
-<img src = "https://user-images.githubusercontent.com/61902400/123883479-0e137a00-d984-11eb-9b3f-52fc391344ce.jpg" width="30%" height="30%" align="left">
+<p align="center"><img src = "https://user-images.githubusercontent.com/61902400/123640326-05278900-d85c-11eb-928c-5564ce041d3a.PNG" width="4%" height="30%">
+<img src = "https://user-images.githubusercontent.com/61902400/123883479-0e137a00-d984-11eb-9b3f-52fc391344ce.jpg" width="32%" height="30%" align="left">
 
-* * *
+
 📝**목차** 
  
  :octocat: **포트폴리오**
@@ -31,7 +30,7 @@
 * * *
 
 
-든든하고, 실력 있는 개발자를 꿈꾸는 배정태입니다.
+든든하고, 실력 있는 개발자를 꿈꾸는 컴퓨터공학과 17학번 배정태입니다.
 
 * * *
 
