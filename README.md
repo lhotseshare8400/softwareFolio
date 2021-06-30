@@ -1,8 +1,10 @@
 
 
-<img src = "https://user-images.githubusercontent.com/61902400/123640326-05278900-d85c-11eb-928c-5564ce041d3a.PNG" width="25%" height="25%" align="right">
+<img src = "https://user-images.githubusercontent.com/61902400/123888748-1fae4f00-d98f-11eb-9268-1b99e5f608e7.PNG" width="25%" height="25%" align="right">
 <p align="center"><img src = "https://user-images.githubusercontent.com/61902400/123640326-05278900-d85c-11eb-928c-5564ce041d3a.PNG" width="5%" height="30%">
 <img src = "https://user-images.githubusercontent.com/61902400/123883479-0e137a00-d984-11eb-9b3f-52fc391344ce.jpg" width="32%" height="30%" align="left">
+
+
 
 
 📝**목차** 
@@ -24,7 +26,7 @@
 👨🏻‍💻**Career (경력)**
 
 
- 
+* * *
  
 ###### :octocat: 포트폴리오
 * * *
