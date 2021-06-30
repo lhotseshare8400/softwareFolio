@@ -76,6 +76,11 @@
  
   [Youtube link]: https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg "Go google"
 
+ 
+ [Youtube](https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg)
+
+[깃헙](https://github.com/)
+
  * * *
 
 👨‍👨‍👦‍👦**project**
